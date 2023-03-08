@@ -1,0 +1,16 @@
+{
+  "name": "ghc",
+  "version": "1.0.0",
+  "description": "Plugin for E-commerce website",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Shubham Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-admin": "^11.5.0",
+    "node-cron": "^3.0.2"
+  }
+}

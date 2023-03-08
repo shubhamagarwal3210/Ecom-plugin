@@ -1,0 +1,17 @@
+{
+   "MAX_NOTIFICATION_SEND" : "Done with max number of notification",
+   "ABANDONED_CHECKOUT": "abandoned_checkout_url",
+   "ORDER_COMPLETED": "order",
+   "PENDING": "PENDING",
+   "PAID": "PAID",
+   "NO_MATCHING_EVENT": "No matching events were found",
+   "MAX_NOTIFICATION_COUNT": "5",
+   "SUCCESS": "SUCCESS",
+   "FAIL": "FAIL",
+   "1": 10,
+   "2": 30,
+   "3": 50,
+   "4": 70,
+   "5": 90,
+   "6" : "Done with max number of notification"
+}
